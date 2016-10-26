@@ -1,12 +1,13 @@
 # High resolution neural connectivity from incomplete tracing data using nonnegative spline regression
 
-Authors: Kameron Decker Harris (kamdh@uw.edu), 
+Kameron Decker Harris (kamdh@uw.edu), 
 Stefan Mihalas (stefanm@alleninstitute.org),
 Eric Shea-Brown (etsb@uw.edu).
 
-Published: NIPS, 2016
+NIPS, 2016
 
-The paper is available here as well as at https://arxiv.org/abs/1605.08031
+The paper is available at https://nips.cc, here, 
+and at https://arxiv.org/abs/1605.08031
 
 ### Code
 
