@@ -9,10 +9,8 @@ Eric Shea-Brown (etsb@uw.edu)
 
 The majority of code is split into separate repositories:
 
-* [allen-voxel-network](https://github.com/kharris/allen-voxel-network) 
-- utilities for setting up voxel matrices by pulling from allensdk
-* [spatial-network-regression](https://github.com/kharris/spatial-network-regression) 
-- solves (P1) using L-BFGS-B
+* [allen-voxel-network](https://github.com/kharris/allen-voxel-network) - utilities for setting up voxel matrices by pulling from allensdk
+* [spatial-network-regression](https://github.com/kharris/spatial-network-regression) - solves (P1) using L-BFGS-B
 
 Furthermore, we provide here the MATLAB code used to solve (P2), 
 the low-rank version, using projected gradient descent:
