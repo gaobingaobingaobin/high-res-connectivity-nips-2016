@@ -29,7 +29,7 @@ undershoots the full rank solution in proximal projections, and overshoots it
 with distal projections.
 
 * movie_full.mp4 - solution of (P1), lambda=10^5
-* movie_low_rank.mp4 - solution of (P2), lambda=10^5, r=120
+* movie_low_rank.mp4 - solution of (P2), lambda=10^5, r=160
 * movie_res.mp4 - residual (W_lowrank - W_full) plotted in the same way
 * movie_full_retrograde.mp4 - solution of (P1), lambda=10^5, 
 visualized retrograde with W^T
